@@ -8,7 +8,8 @@ def print_hi(name):
 '''
     crazy = 8
     import pdb
-    pdb.set_trace()  # is used to stop the code in a specific place and ask values of the variables and functions
+    pdb.set_trace()  # is used to stop the code in 
+       specific place and ask values of the variables and functions
     #                              https://docs.python.org/3/library/pdb.html#pdbcommand-next
     low = 10
     coco = crazy + low 
